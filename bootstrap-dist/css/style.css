@@ -1,0 +1,82 @@
+body{
+    font-family:'Comfortaa', cursive;
+    font-weight: 900px;
+    color: rgb(3, 3, 3);
+}
+
+/*Headings*/
+
+h1,h2{
+    font-family: 'Josefin Sans', sans-serif;
+}
+/*Navigation Bar*/
+
+.navbar{
+    padding:0 0 4.5rem;
+}
+
+.navbar-brand{
+    font-family: 'Ubuntu';
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.nav-item{
+    padding:0 10px;
+}
+
+.nav-link{
+    font-size: 1.2rem;
+    font-family: 'Montserrat-Light';
+}
+
+/**containers**/
+
+.container-fluid{
+    padding:7% 15%;
+}
+.container-fluid-1{
+    padding:0 15% 0 15%;
+}
+
+/*Sections*/
+
+
+/*Pricing Section*/
+
+
+.pricing-column{
+padding:3% 2%;
+}
+
+.price-text{
+    font-size:3rem;
+    line-height:1.5;
+}
+
+.sub-headings{
+    text-align: left;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.imp_btn{
+    display:flex;
+}
+#button1{
+    width: 45%;
+    height: 36px;
+    margin:0;
+    font-size: .7rem;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    align-items: center;
+    justify-content: center;
+}
+#button2{
+    width:50%;
+    height:10%;
+    margin-bottom: 10px;
+    font-size: .8rem;
+    position: relative;
+}
